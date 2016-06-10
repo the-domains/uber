@@ -6,9 +6,9 @@ color:
   saturation: 0.9182934239506721
   rhythmicContrast: 0.836186237866059
   brandColors:
-    - '#00261C'
-    - '#044D29'
-    - '#168039'
-    - '#45BF55'
-    - '#96ED89'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: uber
